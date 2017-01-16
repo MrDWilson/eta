@@ -20,7 +20,9 @@ Work on setting up platform-specific installers is in progress.
 .. warning::
 
   The Windows installation currently does not work. Work is in progress to fix up
-  the installation, see `this issue <https://github.com/typelead/eta/issues/106>`_.
+  the installation, see `this issue <https://github.com/typelead/eta/issues/106>`_. 
+  A workaround for Windows 10 can be found at the end of the Source Installation 
+  section. 
 
 Method 1: Source Installation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
